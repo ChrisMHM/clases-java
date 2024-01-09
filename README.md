@@ -4,3 +4,4 @@
 2. Clase 02: Scanner, Strings e impresión en pantalla.
 3. Clase 03: Tipos de datos primitivos, variables y calculadora básica.
 4. Clase 04: Reasignación de variables. Operaciones lógicas y condicionales.
+5. Clase 05: Reconocimiento de patrones para la resolución de problemas.
