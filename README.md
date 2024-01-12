@@ -6,3 +6,4 @@
 4. Clase 04: Reasignación de variables. Operaciones lógicas y condicionales.
 5. Clase 05: Reconocimiento de patrones para la resolución de problemas.
 6. Clase 06: Ciclos, usos de while, for y operadores de incremento y decremento.
+7. Clase 07: Definición de funciones.
