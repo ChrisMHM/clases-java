@@ -7,3 +7,5 @@
 - Clase 05: Reconocimiento de patrones para la resolución de problemas.
 - Clase 06: Ciclos, usos de while, for y operadores de incremento y decremento.
 - Clase 07: Definición de funciones.
+- Clase 08: Ejercicio del MOOC
+- Clase 09: Piedra, Papel o Tijeras.
